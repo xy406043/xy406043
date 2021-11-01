@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **xy406043/xy406043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
