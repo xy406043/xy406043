@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Vue.js       29 hrs 30 mins  ██████████████████░░░░░░░   72.21 % 
 JavaScript   10 hrs 39 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.10 % 
 Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
