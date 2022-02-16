@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       9 hrs 46 mins   █████████████▓░░░░░░░░░░░   54.90 % 
-JavaScript   5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
-JSON         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-TypeScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Total: 15 hrs 10 mins
+
+Vue.js       5 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   35.87 % 
+JavaScript   4 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
+TypeScript   3 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.84 % 
+JSON         1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 <!--END_SECTION:waka-->
