@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 31 mins   ████████████████▒░░░░░░░░   65.12 %
-Markdown     46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-TypeScript   30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript   2 hrs 30 mins   █████████████████████▓░░░   86.86 %
+Markdown     12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
