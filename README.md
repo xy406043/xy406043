@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 mins          ████████████████████████▓   98.88 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript   7 mins          ████████████████████████░   96.59 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
